@@ -8,7 +8,7 @@ This project is a Laravel-based web application that provides user authenticatio
 - Profile creation with:
   - Full name
   - Email
-  - Phone
+  - Phone 
   - Address
   - Bio
   - Profile image upload
